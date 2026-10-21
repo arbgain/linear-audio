@@ -2,7 +2,8 @@
 """Gera o manifesto de vitrine e payload compatível com POST /products da Nuvemshop.
 
 Não gera preços, SKUs ou especificações inexistentes. O campo --asset-base-url deve apontar
-para a origem HTTPS que servirá /assets/products após a publicação dos arquivos tratados.
+para uma origem HTTPS dos arquivos tratados; opcionalmente --asset-url-map fornece URLs
+públicas individuais quando o repositório de código não é uma origem pública de mídia.
 """
 from __future__ import annotations
 
@@ -17,6 +18,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Gera o payload de produtos Nuvemshop a partir de um catálogo selecionado.")
     parser.add_argument("--selection", type=Path, required=True)
     parser.add_argument("--asset-base-url", required=True, help="Ex.: https://www.linearaudio.com.br")
+    parser.add_argument("--asset-url-map", type=Path, help="JSON opcional: '<slug>/<view>.jpg' -> URL HTTPS pública.")
     parser.add_argument("--assets", type=Path, default=Path("assets/products"))
     parser.add_argument("--output", type=Path, default=Path("data/nuvemshop-products.json"))
     parser.add_argument("--expected-count", type=int, default=10)
@@ -33,6 +35,7 @@ def validate_base_url(value: str) -> str:
 def main() -> None:
     args = parse_args()
     base_url = validate_base_url(args.asset_base_url)
+    url_map = json.loads(args.asset_url_map.read_text(encoding="utf-8")) if args.asset_url_map else {}
     selection = json.loads(args.selection.read_text(encoding="utf-8"))
     products = selection.get("products", [])
     if len(products) != args.expected_count:
@@ -52,7 +55,10 @@ def main() -> None:
             if not asset.is_file():
                 raise FileNotFoundError(f"Asset tratado ausente: {asset}")
             relative = f"/assets/products/{product['slug']}/{view}.jpg"
-            url = f"{base_url}{relative}"
+            map_key = f"{product['slug']}/{view}.jpg"
+            url = url_map.get(map_key, f"{base_url}{relative}")
+            if not url.startswith("https://"):
+                raise ValueError(f"URL pública inválida para {map_key}: {url}")
             images.append({"src": relative, "alt": f"{product['name']} — vista {('frontal' if view == 'front' else 'traseira')}", "view": view, "position": position})
             api_images.append({"src": url})
 
