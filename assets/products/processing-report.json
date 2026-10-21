@@ -1,0 +1,204 @@
+{
+  "processed": [
+    {
+      "product": "BP17-12/15",
+      "view": "front",
+      "file": "assets/products/bp17-12-15/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP17-12/15",
+      "view": "rear",
+      "file": "assets/products/bp17-12-15/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP19-12/15",
+      "view": "front",
+      "file": "assets/products/bp19-12-15/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP19-12/15",
+      "view": "rear",
+      "file": "assets/products/bp19-12-15/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP21-12/15",
+      "view": "front",
+      "file": "assets/products/bp21-12-15/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP21-12/15",
+      "view": "rear",
+      "file": "assets/products/bp21-12-15/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP23-10A55",
+      "view": "front",
+      "file": "assets/products/bp23-10a55/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP23-10A55",
+      "view": "rear",
+      "file": "assets/products/bp23-10a55/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP23-12/15",
+      "view": "front",
+      "file": "assets/products/bp23-12-15/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BP23-12/15",
+      "view": "rear",
+      "file": "assets/products/bp23-12-15/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "B-12/15",
+      "view": "front",
+      "file": "assets/products/b-12-15/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "B-12/15",
+      "view": "rear",
+      "file": "assets/products/b-12-15/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "MA-12/15",
+      "view": "front",
+      "file": "assets/products/ma-12-15/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "MA-12/15",
+      "view": "rear",
+      "file": "assets/products/ma-12-15/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "T-1 MAX",
+      "view": "front",
+      "file": "assets/products/t-1-max/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "T-1 MAX",
+      "view": "rear",
+      "file": "assets/products/t-1-max/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BW14-10",
+      "view": "front",
+      "file": "assets/products/bw14-10/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "BW14-10",
+      "view": "rear",
+      "file": "assets/products/bw14-10/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "CS-10",
+      "view": "front",
+      "file": "assets/products/cs-10/front.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    },
+    {
+      "product": "CS-10",
+      "view": "rear",
+      "file": "assets/products/cs-10/rear.jpg",
+      "size": [
+        2000,
+        2000
+      ],
+      "background": "#FFFFFF"
+    }
+  ]
+}

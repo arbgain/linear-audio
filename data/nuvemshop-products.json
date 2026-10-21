@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "schemaVersion": "2025-03",
+    "source": "CATALOGO BLG (2).pdf",
+    "status": "ready_for_nuvemshop_upload",
+    "message": "Payload validado a partir de 10 produtos e duas visões tratadas por produto.",
+    "generatedAt": "2026-10-21T16:34:29.998589+00:00",
+    "assetBaseUrl": "https://raw.githubusercontent.com/arbgain/linear-audio/main"
+  },
+  "products": [
+    {
+      "id": "bp17-12-15",
+      "slug": "bp17-12-15",
+      "name": "BP17-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. O catálogo apresenta configuração de duas vias, versão ativa, Bluetooth e processamento DSP.",
+      "technicalSummary": "Caixa profissional de duas vias em polipropileno, com versão ativa e DSP conforme a ficha do catálogo.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Configuração: duas vias",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/bp17-12-15/front.jpg",
+          "alt": "BP17-12/15 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/bp17-12-15/rear.jpg",
+          "alt": "BP17-12/15 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "BP17-12/15"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. O catálogo apresenta configuração de duas vias, versão ativa, Bluetooth e processamento DSP."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp17-12-15/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp17-12-15/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "bp19-12-15",
+      "slug": "bp19-12-15",
+      "name": "BP19-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP19.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Linha BP19",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/bp19-12-15/front.jpg",
+          "alt": "BP19-12/15 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/bp19-12-15/rear.jpg",
+          "alt": "BP19-12/15 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "BP19-12/15"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP19."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp19-12-15/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp19-12-15/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "bp21-12-15",
+      "slug": "bp21-12-15",
+      "name": "BP21-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP21.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Linha BP21",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/bp21-12-15/front.jpg",
+          "alt": "BP21-12/15 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/bp21-12-15/rear.jpg",
+          "alt": "BP21-12/15 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "BP21-12/15"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP21."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp21-12-15/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp21-12-15/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "bp23-10a55",
+      "slug": "bp23-10a55",
+      "name": "BP23-10A55",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. O catálogo apresenta configuração de duas vias com filtro ativo e processamento DSP.",
+      "technicalSummary": "Caixa profissional em polipropileno com configuração de duas vias conforme o catálogo.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Configuração: duas vias",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/bp23-10a55/front.jpg",
+          "alt": "BP23-10A55 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/bp23-10a55/rear.jpg",
+          "alt": "BP23-10A55 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "BP23-10A55"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. O catálogo apresenta configuração de duas vias com filtro ativo e processamento DSP."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp23-10a55/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp23-10a55/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "bp23-12-15",
+      "slug": "bp23-12-15",
+      "name": "BP23-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP23.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Linha BP23",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/bp23-12-15/front.jpg",
+          "alt": "BP23-12/15 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/bp23-12-15/rear.jpg",
+          "alt": "BP23-12/15 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "BP23-12/15"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP23."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp23-12-15/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bp23-12-15/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "b-12-15",
+      "slug": "b-12-15",
+      "name": "B-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo B-12/15.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Modelo B-12/15",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/b-12-15/front.jpg",
+          "alt": "B-12/15 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/b-12-15/rear.jpg",
+          "alt": "B-12/15 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "B-12/15"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo B-12/15."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/b-12-15/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/b-12-15/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "ma-12-15",
+      "slug": "ma-12-15",
+      "name": "MA-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo MA-12/15.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Modelo MA-12/15",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/ma-12-15/front.jpg",
+          "alt": "MA-12/15 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/ma-12-15/rear.jpg",
+          "alt": "MA-12/15 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "MA-12/15"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo MA-12/15."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/ma-12-15/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/ma-12-15/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "t-1-max",
+      "slug": "t-1-max",
+      "name": "T-1 MAX",
+      "category": "caixas-de-som-polipropileno",
+      "brand": null,
+      "descriptionHtml": "Caixa profissional a bateria em polipropileno. O catálogo apresenta vistas frontal e traseira do modelo T-1 MAX.",
+      "technicalSummary": "Caixa profissional a bateria em polipropileno.",
+      "technicalSpecs": [
+        "Material: polipropileno",
+        "Categoria: caixa profissional a bateria",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/t-1-max/front.jpg",
+          "alt": "T-1 MAX — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/t-1-max/rear.jpg",
+          "alt": "T-1 MAX — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "T-1 MAX"
+        },
+        "description": {
+          "pt": "Caixa profissional a bateria em polipropileno. O catálogo apresenta vistas frontal e traseira do modelo T-1 MAX."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/t-1-max/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/t-1-max/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "bw14-10",
+      "slug": "bw14-10",
+      "name": "BW14-10",
+      "category": "caixas-de-som-madeira-condensada",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em madeira condensada. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo BW14-10.",
+      "technicalSummary": "Caixa profissional em madeira condensada para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: madeira condensada",
+        "Modelo BW14-10",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/bw14-10/front.jpg",
+          "alt": "BW14-10 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/bw14-10/rear.jpg",
+          "alt": "BW14-10 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "BW14-10"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em madeira condensada. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo BW14-10."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bw14-10/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/bw14-10/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    },
+    {
+      "id": "cs-10",
+      "slug": "cs-10",
+      "name": "CS-10",
+      "category": "caixas-de-som-madeira-condensada",
+      "brand": null,
+      "descriptionHtml": "Caixa de som profissional em madeira condensada. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo CS-10.",
+      "technicalSummary": "Caixa profissional em madeira condensada para aplicações de sonorização.",
+      "technicalSpecs": [
+        "Material: madeira condensada",
+        "Modelo CS-10",
+        "Vistas frontal e traseira tratadas"
+      ],
+      "images": [
+        {
+          "src": "/assets/products/cs-10/front.jpg",
+          "alt": "CS-10 — vista frontal",
+          "view": "front",
+          "position": 1
+        },
+        {
+          "src": "/assets/products/cs-10/rear.jpg",
+          "alt": "CS-10 — vista traseira",
+          "view": "rear",
+          "position": 2
+        }
+      ],
+      "sku": null,
+      "nuvemshopPayload": {
+        "name": {
+          "pt": "CS-10"
+        },
+        "description": {
+          "pt": "Caixa de som profissional em madeira condensada. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo CS-10."
+        },
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/cs-10/front.jpg"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/arbgain/linear-audio/main/assets/products/cs-10/rear.jpg"
+          }
+        ],
+        "visibility": "hidden",
+        "requires_shipping": true,
+        "tags": "som-profissional"
+      }
+    }
+  ]
+}

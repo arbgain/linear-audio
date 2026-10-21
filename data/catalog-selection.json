@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "sourcePdf": "CATALOGO BLG (2).pdf",
+    "selectionRule": "Primeiros 10 produtos, ignorando capa e páginas de categoria",
+    "coordinateSystem": "PDF points [left, top, right, bottom]"
+  },
+  "products": [
+    {
+      "id": "bp17-12-15",
+      "slug": "bp17-12-15",
+      "name": "BP17-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. O catálogo apresenta configuração de duas vias, versão ativa, Bluetooth e processamento DSP.",
+      "technicalSummary": "Caixa profissional de duas vias em polipropileno, com versão ativa e DSP conforme a ficha do catálogo.",
+      "technicalSpecs": ["Material: polipropileno", "Configuração: duas vias", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 3, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 3, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "bp19-12-15",
+      "slug": "bp19-12-15",
+      "name": "BP19-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP19.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": ["Material: polipropileno", "Linha BP19", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 4, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 4, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "bp21-12-15",
+      "slug": "bp21-12-15",
+      "name": "BP21-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP21.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": ["Material: polipropileno", "Linha BP21", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 5, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 5, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "bp23-10a55",
+      "slug": "bp23-10a55",
+      "name": "BP23-10A55",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. O catálogo apresenta configuração de duas vias com filtro ativo e processamento DSP.",
+      "technicalSummary": "Caixa profissional em polipropileno com configuração de duas vias conforme o catálogo.",
+      "technicalSpecs": ["Material: polipropileno", "Configuração: duas vias", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 6, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 6, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "bp23-12-15",
+      "slug": "bp23-12-15",
+      "name": "BP23-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica da linha BP23.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": ["Material: polipropileno", "Linha BP23", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 7, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 7, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "b-12-15",
+      "slug": "b-12-15",
+      "name": "B-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo B-12/15.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": ["Material: polipropileno", "Modelo B-12/15", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 8, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 8, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "ma-12-15",
+      "slug": "ma-12-15",
+      "name": "MA-12/15",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa de som profissional em polipropileno. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo MA-12/15.",
+      "technicalSummary": "Caixa profissional em polipropileno para aplicações de sonorização.",
+      "technicalSpecs": ["Material: polipropileno", "Modelo MA-12/15", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 9, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 9, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "t-1-max",
+      "slug": "t-1-max",
+      "name": "T-1 MAX",
+      "category": "caixas-de-som-polipropileno",
+      "descriptionHtml": "Caixa profissional a bateria em polipropileno. O catálogo apresenta vistas frontal e traseira do modelo T-1 MAX.",
+      "technicalSummary": "Caixa profissional a bateria em polipropileno.",
+      "technicalSpecs": ["Material: polipropileno", "Categoria: caixa profissional a bateria", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 10, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 10, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "bw14-10",
+      "slug": "bw14-10",
+      "name": "BW14-10",
+      "category": "caixas-de-som-madeira-condensada",
+      "descriptionHtml": "Caixa de som profissional em madeira condensada. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo BW14-10.",
+      "technicalSummary": "Caixa profissional em madeira condensada para aplicações de sonorização.",
+      "technicalSpecs": ["Material: madeira condensada", "Modelo BW14-10", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 12, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 12, "crop": [445, 165, 825, 805]}
+      }
+    },
+    {
+      "id": "cs-10",
+      "slug": "cs-10",
+      "name": "CS-10",
+      "category": "caixas-de-som-madeira-condensada",
+      "descriptionHtml": "Caixa de som profissional em madeira condensada. A página do catálogo apresenta vistas frontal e traseira e ficha técnica do modelo CS-10.",
+      "technicalSummary": "Caixa profissional em madeira condensada para aplicações de sonorização.",
+      "technicalSpecs": ["Material: madeira condensada", "Modelo CS-10", "Vistas frontal e traseira tratadas"],
+      "views": {
+        "front": {"page": 13, "crop": [45, 165, 430, 805]},
+        "rear": {"page": 13, "crop": [445, 165, 825, 805]}
+      }
+    }
+  ]
+}
