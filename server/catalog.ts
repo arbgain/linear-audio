@@ -15,12 +15,12 @@ const catalogProductSchema = z.object({
   slug: z.string().min(1),
   name: z.string().min(1),
   category: z.string().min(1),
-  brand: z.string().optional(),
+  brand: z.string().nullable().optional(),
   descriptionHtml: z.string().default(""),
   technicalSummary: z.string().default(""),
   technicalSpecs: z.array(z.string()).default([]),
   images: z.array(productImageSchema).default([]),
-  sku: z.string().optional(),
+  sku: z.string().nullable().optional(),
   price: z.string().optional(),
 });
 

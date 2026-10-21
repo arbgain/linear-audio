@@ -33,7 +33,7 @@ function stripHtml(value: string) {
   return value.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
-function ProductCard({ product }: { product: { name: string; category: string; brand?: string; technicalSummary: string; descriptionHtml: string; technicalSpecs: string[]; images: Array<{ src: string; alt: string; view?: "front" | "rear" | "detail"; position?: number }>; sku?: string; price?: string } }) {
+function ProductCard({ product }: { product: { name: string; category: string; brand?: string | null; technicalSummary: string; descriptionHtml: string; technicalSpecs: string[]; images: Array<{ src: string; alt: string; view?: "front" | "rear" | "detail"; position?: number }>; sku?: string | null; price?: string | null } }) {
   const primaryImage = product.images.find((image) => image.view === "front") ?? product.images[0];
   const summary = product.technicalSummary || stripHtml(product.descriptionHtml) || "Especificação técnica disponível mediante consulta.";
   const hasFrontAndRearViews = product.images.some((image) => image.view === "front") && product.images.some((image) => image.view === "rear");
